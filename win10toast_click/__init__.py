@@ -27,7 +27,6 @@ import threading
 import time
 from time import sleep
 from os import path
-from time import sleep
 from pkg_resources import Requirement
 from pkg_resources import resource_filename
 
